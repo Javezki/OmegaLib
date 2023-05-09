@@ -1,5 +1,4 @@
-# Archival Reasoning
-With the complete removal of CSCore-Lib, the slimefun API has become more robust and much easier to work with. Whilst this lib is very useful, Slimefun has made it very simple to add things like research recipes and other things with the advent of RC-30. This lib is no longer going to be maintained and all developments will be focused on OmegaExpansion. Thanks for the lib Mooy1
+
 
 
 # InfinityLib
